@@ -83,8 +83,6 @@ As visualizações estão disponíveis no dashboard interativo criado no [Looker
 ├── 📁 dados/
 │   ├── indicadores_ocorrecia_uf.csv
 │   └── indicadores_vitimas_uf.csv
-├── 📁 imagens/
-│   └── dashboard_looker.png
 ├── 📁 notebooks/
 │   └── analise_exploratoria.py
 │   └── analise_exploratoria_pyspark.py
